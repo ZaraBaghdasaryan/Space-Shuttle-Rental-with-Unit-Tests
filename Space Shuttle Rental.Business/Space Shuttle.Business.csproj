@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Car_Rental.Business</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Space Shuttle Rental.Common\Space Shuttle.Common.csproj" />
+    <ProjectReference Include="..\Space Shuttle Rental.Data\Space Shuttle.Data.csproj" />
+  </ItemGroup>
+
+</Project>

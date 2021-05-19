@@ -1,0 +1,76 @@
+﻿@page "/customers"
+@using Space_Shuttle.Business.Classes;
+@inject BookingProcessor BP
+
+<h1>Space Shuttle Rental</h1>
+<h3>Customers</h3>
+
+@if (Error != string.Empty)
+{
+    <div class="=row">
+        <div class="col-12 alert alert-danger" role="alert">
+            <strong>Error</strong> @Error
+        </div>
+    </div>
+}
+
+<div class="row">
+    <div class="col-6">
+
+        <table class="table table-hover" style="border:1px solid">
+            <thead class="thead-dark">
+                <tr>
+                    <th scope="col">Social Security Number</th>
+                    <th scope="col">First Name</th>
+                    <th scope="col">Last Name</th>
+                    <th scope="col"></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <th scope="row"><input style="height:31px;" placeholder="Social Security Number" @bind="SocialSecurityNumber" /></th>
+                    <th scope="row"><input style="height:31px;" placeholder="First Name" @bind="FirstName" /></th>
+                    <th scope="row"><input style="height:31px;" placeholder="Last Name" @bind="LastName" /></th>
+                    <td><button class="btn btn-outline-success btn-sm" @onclick="AddCustomer">Add</button></td>
+                </tr>
+
+                @foreach (var customer in BP.GetCustomers())
+                {
+                    <tr>
+                        <th scope="row">@customer.SocialSecurityNumber</th>
+                        <td>@customer.FirstName</td>
+                        <td>@customer.LastName</td>
+                        <td></td>
+                    </tr>
+                }
+
+
+            </tbody>
+        </table>
+    </div>
+    <div class="col-6">
+    </div>
+</div>
+
+@code {
+
+    string Error = string.Empty;
+    string FirstName = string.Empty;
+    string LastName = string.Empty;
+    string SocialSecurityNumber = string.Empty;
+
+    void AddCustomer()
+    {
+        try
+        {
+
+        }
+
+        catch (Exception ex)
+        {
+            Error = ex.Message;
+        }
+
+
+    }
+}

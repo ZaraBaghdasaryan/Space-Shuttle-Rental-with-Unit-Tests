@@ -1,0 +1,46 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Space Shuttle.Business/1.0.0": {
+        "runtime": {
+          "Space Shuttle.Business.dll": {}
+        }
+      },
+      "Space Shuttle.Common/1.0.0": {
+        "runtime": {
+          "Space Shuttle.Common.dll": {}
+        }
+      },
+      "Space Shuttle.Data/1.0.0": {
+        "dependencies": {
+          "Space Shuttle.Common": "1.0.0"
+        },
+        "runtime": {
+          "Space Shuttle.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Space Shuttle.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Space Shuttle.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Space Shuttle.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

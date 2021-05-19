@@ -1,0 +1,224 @@
+C:\Slask\Space Shuttle Rental Assignment - Zaruhi\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.csprojAssemblyReference.cache
+C:\Slask\Space Shuttle Rental Assignment - Zaruhi\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.AssemblyInfoInputs.cache
+C:\Slask\Space Shuttle Rental Assignment - Zaruhi\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.AssemblyInfo.cs
+C:\Slask\Space Shuttle Rental Assignment - Zaruhi\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.csproj.CoreCompileInputs.cache
+C:\Slask\Space Shuttle Rental Assignment - Zaruhi\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Slask\Space Shuttle Rental Assignment - Zaruhi\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.RazorComponent.input.cache
+C:\Slask\Space Shuttle Rental Assignment - Zaruhi\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+C:\Slask\Space Shuttle Rental Assignment - Zaruhi\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Bookings.razor.g.cs
+C:\Slask\Space Shuttle Rental Assignment - Zaruhi\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Rent.razor.g.cs
+C:\Slask\Space Shuttle Rental Assignment - Zaruhi\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Slask\Space Shuttle Rental Assignment - Zaruhi\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Slask\Space Shuttle Rental Assignment - Zaruhi\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Slask\Space Shuttle Rental Assignment - Zaruhi\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Slask\Space Shuttle Rental Assignment - Zaruhi\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.RazorComponent.output.cache
+C:\Slask\Space Shuttle Rental Assignment - Zaruhi\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Slask\Space Shuttle Rental Assignment - Zaruhi\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Slask\Space Shuttle Rental Assignment - Zaruhi\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\bin\Debug\netcoreapp3.1\Space Shuttle Rental.UI.exe
+C:\Slask\Space Shuttle Rental Assignment - Zaruhi\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\bin\Debug\netcoreapp3.1\Space Shuttle Rental.UI.deps.json
+C:\Slask\Space Shuttle Rental Assignment - Zaruhi\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\bin\Debug\netcoreapp3.1\Space Shuttle Rental.UI.runtimeconfig.json
+C:\Slask\Space Shuttle Rental Assignment - Zaruhi\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\bin\Debug\netcoreapp3.1\Space Shuttle Rental.UI.runtimeconfig.dev.json
+C:\Slask\Space Shuttle Rental Assignment - Zaruhi\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\bin\Debug\netcoreapp3.1\Space Shuttle Rental.UI.dll
+C:\Slask\Space Shuttle Rental Assignment - Zaruhi\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\bin\Debug\netcoreapp3.1\Space Shuttle Rental.UI.pdb
+C:\Slask\Space Shuttle Rental Assignment - Zaruhi\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\bin\Debug\netcoreapp3.1\Space Shuttle Rental.UI.Views.dll
+C:\Slask\Space Shuttle Rental Assignment - Zaruhi\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\bin\Debug\netcoreapp3.1\Space Shuttle Rental.UI.Views.pdb
+C:\Slask\Space Shuttle Rental Assignment - Zaruhi\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\bin\Debug\netcoreapp3.1\Space Shuttle.Business.dll
+C:\Slask\Space Shuttle Rental Assignment - Zaruhi\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\bin\Debug\netcoreapp3.1\Space Shuttle.Common.dll
+C:\Slask\Space Shuttle Rental Assignment - Zaruhi\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\bin\Debug\netcoreapp3.1\Space Shuttle.Data.dll
+C:\Slask\Space Shuttle Rental Assignment - Zaruhi\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\bin\Debug\netcoreapp3.1\Space Shuttle.Business.pdb
+C:\Slask\Space Shuttle Rental Assignment - Zaruhi\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\bin\Debug\netcoreapp3.1\Space Shuttle.Common.pdb
+C:\Slask\Space Shuttle Rental Assignment - Zaruhi\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\bin\Debug\netcoreapp3.1\Space Shuttle.Data.pdb
+C:\Slask\Space Shuttle Rental Assignment - Zaruhi\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\RazorDeclaration\Space Shuttle Rental.UI.dll
+C:\Slask\Space Shuttle Rental Assignment - Zaruhi\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.TagHelpers.input.cache
+C:\Slask\Space Shuttle Rental Assignment - Zaruhi\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.TagHelpers.output.cache
+C:\Slask\Space Shuttle Rental Assignment - Zaruhi\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.RazorCoreGenerate.cache
+C:\Slask\Space Shuttle Rental Assignment - Zaruhi\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+C:\Slask\Space Shuttle Rental Assignment - Zaruhi\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Bookings.razor.g.cs
+C:\Slask\Space Shuttle Rental Assignment - Zaruhi\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Rent.razor.g.cs
+C:\Slask\Space Shuttle Rental Assignment - Zaruhi\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+C:\Slask\Space Shuttle Rental Assignment - Zaruhi\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+C:\Slask\Space Shuttle Rental Assignment - Zaruhi\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Slask\Space Shuttle Rental Assignment - Zaruhi\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+C:\Slask\Space Shuttle Rental Assignment - Zaruhi\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Slask\Space Shuttle Rental Assignment - Zaruhi\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+C:\Slask\Space Shuttle Rental Assignment - Zaruhi\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.RazorAssemblyInfo.cache
+C:\Slask\Space Shuttle Rental Assignment - Zaruhi\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.RazorAssemblyInfo.cs
+C:\Slask\Space Shuttle Rental Assignment - Zaruhi\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\staticwebassets\Space Shuttle Rental.UI.StaticWebAssets.Manifest.cache
+C:\Slask\Space Shuttle Rental Assignment - Zaruhi\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\staticwebassets\Space Shuttle Rental.UI.StaticWebAssets.xml
+C:\Slask\Space Shuttle Rental Assignment - Zaruhi\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\scopedcss\bundle\Space Shuttle Rental.UI.styles.css
+C:\Slask\Space Shuttle Rental Assignment - Zaruhi\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.RazorTargetAssemblyInfo.cache
+C:\Slask\Space Shuttle Rental Assignment - Zaruhi\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.RazorTargetAssemblyInfo.cs
+C:\Slask\Space Shuttle Rental Assignment - Zaruhi\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.Views.pdb
+C:\Slask\Space Shuttle Rental Assignment - Zaruhi\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.csproj.CopyComplete
+C:\Slask\Space Shuttle Rental Assignment - Zaruhi\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.dll
+C:\Slask\Space Shuttle Rental Assignment - Zaruhi\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.pdb
+C:\Slask\Space Shuttle Rental Assignment - Zaruhi\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.genruntimeconfig.cache
+C:\Users\Zara1\Desktop\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.csprojAssemblyReference.cache
+C:\Users\Zara1\Desktop\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.AssemblyInfoInputs.cache
+C:\Users\Zara1\Desktop\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.AssemblyInfo.cs
+C:\Users\Zara1\Desktop\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.csproj.CoreCompileInputs.cache
+C:\Users\Zara1\Desktop\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Zara1\Desktop\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.RazorComponent.input.cache
+C:\Users\Zara1\Desktop\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+C:\Users\Zara1\Desktop\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Bookings.razor.g.cs
+C:\Users\Zara1\Desktop\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Rent.razor.g.cs
+C:\Users\Zara1\Desktop\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\Zara1\Desktop\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\Zara1\Desktop\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Zara1\Desktop\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\Zara1\Desktop\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.RazorComponent.output.cache
+C:\Users\Zara1\Desktop\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\RazorDeclaration\Space Shuttle Rental.UI.dll
+C:\Users\Zara1\Desktop\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.TagHelpers.input.cache
+C:\Users\Zara1\Desktop\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.TagHelpers.output.cache
+C:\Users\Zara1\Desktop\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.RazorCoreGenerate.cache
+C:\Users\Zara1\Desktop\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+C:\Users\Zara1\Desktop\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Bookings.razor.g.cs
+C:\Users\Zara1\Desktop\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Rent.razor.g.cs
+C:\Users\Zara1\Desktop\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\Zara1\Desktop\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\Zara1\Desktop\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Zara1\Desktop\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+C:\Users\Zara1\Desktop\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Zara1\Desktop\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\Zara1\Desktop\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.RazorAssemblyInfo.cache
+C:\Users\Zara1\Desktop\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.RazorAssemblyInfo.cs
+C:\Users\Zara1\Desktop\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.dll
+C:\Users\Zara1\Desktop\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.pdb
+C:\Users\Zara1\Desktop\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Zara1\Desktop\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Zara1\Desktop\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\bin\Debug\netcoreapp3.1\Space Shuttle Rental.UI.exe
+C:\Users\Zara1\Desktop\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\bin\Debug\netcoreapp3.1\Space Shuttle Rental.UI.deps.json
+C:\Users\Zara1\Desktop\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\bin\Debug\netcoreapp3.1\Space Shuttle Rental.UI.runtimeconfig.json
+C:\Users\Zara1\Desktop\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\bin\Debug\netcoreapp3.1\Space Shuttle Rental.UI.runtimeconfig.dev.json
+C:\Users\Zara1\Desktop\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\bin\Debug\netcoreapp3.1\Space Shuttle Rental.UI.dll
+C:\Users\Zara1\Desktop\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\bin\Debug\netcoreapp3.1\Space Shuttle Rental.UI.pdb
+C:\Users\Zara1\Desktop\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\bin\Debug\netcoreapp3.1\Space Shuttle Rental.UI.Views.dll
+C:\Users\Zara1\Desktop\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\bin\Debug\netcoreapp3.1\Space Shuttle Rental.UI.Views.pdb
+C:\Users\Zara1\Desktop\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\bin\Debug\netcoreapp3.1\Space Shuttle.Business.dll
+C:\Users\Zara1\Desktop\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\bin\Debug\netcoreapp3.1\Space Shuttle.Common.dll
+C:\Users\Zara1\Desktop\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\bin\Debug\netcoreapp3.1\Space Shuttle.Data.dll
+C:\Users\Zara1\Desktop\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\bin\Debug\netcoreapp3.1\Space Shuttle.Business.pdb
+C:\Users\Zara1\Desktop\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\bin\Debug\netcoreapp3.1\Space Shuttle.Common.pdb
+C:\Users\Zara1\Desktop\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\bin\Debug\netcoreapp3.1\Space Shuttle.Data.pdb
+C:\Users\Zara1\Desktop\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\staticwebassets\Space Shuttle Rental.UI.StaticWebAssets.Manifest.cache
+C:\Users\Zara1\Desktop\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\staticwebassets\Space Shuttle Rental.UI.StaticWebAssets.xml
+C:\Users\Zara1\Desktop\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\scopedcss\bundle\Space Shuttle Rental.UI.styles.css
+C:\Users\Zara1\Desktop\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.RazorTargetAssemblyInfo.cache
+C:\Users\Zara1\Desktop\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.RazorTargetAssemblyInfo.cs
+C:\Users\Zara1\Desktop\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.Views.pdb
+C:\Users\Zara1\Desktop\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.csproj.CopyComplete
+C:\Users\Zara1\Desktop\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.genruntimeconfig.cache
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\bin\Debug\netcoreapp3.1\Space Shuttle Rental.UI.exe
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\bin\Debug\netcoreapp3.1\Space Shuttle Rental.UI.deps.json
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\bin\Debug\netcoreapp3.1\Space Shuttle Rental.UI.runtimeconfig.json
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\bin\Debug\netcoreapp3.1\Space Shuttle Rental.UI.runtimeconfig.dev.json
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\bin\Debug\netcoreapp3.1\Space Shuttle Rental.UI.dll
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\bin\Debug\netcoreapp3.1\Space Shuttle Rental.UI.pdb
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\bin\Debug\netcoreapp3.1\Space Shuttle Rental.UI.Views.dll
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\bin\Debug\netcoreapp3.1\Space Shuttle Rental.UI.Views.pdb
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\bin\Debug\netcoreapp3.1\Space Shuttle.Business.dll
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\bin\Debug\netcoreapp3.1\Space Shuttle.Common.dll
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\bin\Debug\netcoreapp3.1\Space Shuttle.Data.dll
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\bin\Debug\netcoreapp3.1\Space Shuttle.Business.pdb
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\bin\Debug\netcoreapp3.1\Space Shuttle.Common.pdb
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\bin\Debug\netcoreapp3.1\Space Shuttle.Data.pdb
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.csprojAssemblyReference.cache
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.AssemblyInfoInputs.cache
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.AssemblyInfo.cs
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.csproj.CoreCompileInputs.cache
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.RazorComponent.input.cache
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Bookings.razor.g.cs
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Rent.razor.g.cs
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.RazorComponent.output.cache
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\RazorDeclaration\Space Shuttle Rental.UI.dll
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.TagHelpers.input.cache
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.TagHelpers.output.cache
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.RazorCoreGenerate.cache
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Bookings.razor.g.cs
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Rent.razor.g.cs
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.RazorAssemblyInfo.cache
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.RazorAssemblyInfo.cs
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\staticwebassets\Space Shuttle Rental.UI.StaticWebAssets.Manifest.cache
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\staticwebassets\Space Shuttle Rental.UI.StaticWebAssets.xml
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\scopedcss\bundle\Space Shuttle Rental.UI.styles.css
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.RazorTargetAssemblyInfo.cache
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.RazorTargetAssemblyInfo.cs
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.Views.pdb
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.csproj.CopyComplete
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.dll
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.pdb
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.genruntimeconfig.cache
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Customers1.razor.g.cs
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Customers1.razor.g.cs
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\bin\Debug\netcoreapp3.1\Space Shuttle Rental.UI.exe
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\bin\Debug\netcoreapp3.1\Space Shuttle Rental.UI.deps.json
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\bin\Debug\netcoreapp3.1\Space Shuttle Rental.UI.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\bin\Debug\netcoreapp3.1\Space Shuttle Rental.UI.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\bin\Debug\netcoreapp3.1\Space Shuttle Rental.UI.dll
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\bin\Debug\netcoreapp3.1\Space Shuttle Rental.UI.pdb
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\bin\Debug\netcoreapp3.1\Space Shuttle Rental.UI.Views.dll
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\bin\Debug\netcoreapp3.1\Space Shuttle Rental.UI.Views.pdb
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\bin\Debug\netcoreapp3.1\Space Shuttle.Business.dll
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\bin\Debug\netcoreapp3.1\Space Shuttle.Common.dll
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\bin\Debug\netcoreapp3.1\Space Shuttle.Data.dll
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\bin\Debug\netcoreapp3.1\Space Shuttle.Business.pdb
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\bin\Debug\netcoreapp3.1\Space Shuttle.Common.pdb
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\bin\Debug\netcoreapp3.1\Space Shuttle.Data.pdb
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.RazorComponent.input.cache
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Bookings.razor.g.cs
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Customers1.razor.g.cs
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Rent.razor.g.cs
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.RazorComponent.output.cache
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\RazorDeclaration\Space Shuttle Rental.UI.dll
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.TagHelpers.input.cache
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.TagHelpers.output.cache
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.RazorCoreGenerate.cache
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Bookings.razor.g.cs
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Customers1.razor.g.cs
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Rent.razor.g.cs
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.RazorAssemblyInfo.cache
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.RazorAssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\staticwebassets\Space Shuttle Rental.UI.StaticWebAssets.Manifest.cache
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\staticwebassets\Space Shuttle Rental.UI.StaticWebAssets.xml
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\scopedcss\bundle\Space Shuttle Rental.UI.styles.css
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.RazorTargetAssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.Views.pdb
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.dll
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.pdb
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.UI\obj\Debug\netcoreapp3.1\Space Shuttle Rental.UI.genruntimeconfig.cache

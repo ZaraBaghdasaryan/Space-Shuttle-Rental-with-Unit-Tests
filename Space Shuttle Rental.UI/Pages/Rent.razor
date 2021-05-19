@@ -1,0 +1,164 @@
+﻿@page "/rent"
+@using Space_Shuttle.Business.Classes;
+@using Space_Shuttle.Common.Interfaces;
+@using Space_Shuttle.Common.Enums;
+
+
+@inject BookingProcessor BP
+
+<h1>Space Shuttle Rental</h1>
+<h3>Rent</h3>
+
+@if (Error != string.Empty)
+{
+    <div class="=row">
+        <div class="col-12 alert alert-danger" role="alert">
+            <strong>Error</strong> @Error
+        </div>
+    </div>
+}
+
+
+<div class="row">
+    <div class="col-12">
+        <table class="table table-hover" style="border:1px solid">
+            <thead class="thead-dark">
+                <tr>
+                    <th scope="col">Registration №</th>
+                    <th scope="col">Make</th>
+                    <th scope="col">Distance traveled</th>
+                    <th scope="col">Cost per light-year </th>
+                    <th scope="col">Space Shuttle</th>
+                    <th scope="col">Ƶ per day</th>
+                    <th scope="col" style="width:177px;">Rent or Return</th>
+                    <th scope="col" style="width:95px!important">Status</th>
+
+
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <th scope="row"><input style="height:31px;" placeholder="Registration №" @bind="RegistrationNumber" /></th>
+                    <td><input style="height:31px;" placeholder="Make" @bind="Make" /></td>
+                    <td><input style="height:31px;" placeholder="Distance traveled" @bind="DistanceTraveled" /></td>
+                    <td><input style="height:31px;" placeholder="Cost per light-year" @bind="CostPerLightYear" /></td>
+                    <td>
+                        <select style="height:31px;" @bind="@SelectedSpaceShuttleType"><option value="1">Odyssey</option>
+                        @foreach (var SpaceShuttle in BP.SpaceShuttleShuttlesNames)
+                        { 
+                            <option value=@SpaceShuttle>@SpaceShuttle</option>
+                        }
+
+                        </select>
+
+                    </td>
+                    <td style="border-right:1px dashed lightgray"><button class="btn btn-outline-success btn-sm" @onclick="AddSpaceShuttle">Add</button></td>
+
+                    <td>
+                        <select style="height:31px;" @bind="@SelectedCustomerID">
+                            @foreach (var customer in BP.GetCustomers())
+                            {
+                                <option value=@customer.CustomerID>@customer.ToString()</option>
+                            }
+
+                        </select>
+                    </td>
+                    <td><input style="width:100%; height:31px;" placeholder="Distance" @bind="Distance" /></td>
+
+                </tr>
+                @foreach (var spaceshuttle in SpaceShuttles)
+                {
+                    <tr>
+                        <th scope="row">@spaceshuttle.RegistrationNo</th>
+                        <td>@spaceshuttle.Make</td>
+                        <td>@spaceshuttle.DistanceTraveled</td>
+                        <td>@spaceshuttle.CostPerLightYear</td>
+                        <td>@spaceshuttle.Shuttles</td>
+                        <td>@spaceshuttle.CostPerDay</td>
+                        <td>
+                            @if (spaceshuttle.Status.Equals(SpaceShuttleStatus.Booked))
+                            {
+                                <button style="width:100%;" class=" btn btn-outline-danger btn-sm" @onclick="@(e => ReturnSpaceShuttle(spaceshuttle.ID))">Return</button>
+                            }
+                            else
+                            {
+                                <button style="width:100%;" class=" btn btn-outline-primary btn-sm" @onclick="@(e =>RentSpaceShuttle(spaceshuttle.ID))">Rent</button>
+
+                            }
+                        </td>
+                        <td><span class=" badge badge-@(spaceshuttle.Status.Equals(SpaceShuttleStatus.Available) ? "dark" : "danger") badge-pill float-right" style="margin-top:3px;">@spaceshuttle.Status</span></td>
+
+                    </tr>
+                }
+            </tbody>
+
+        </table>
+    </div>
+</div>
+
+
+
+@code {
+    #region Variables
+    string Error = string.Empty;
+    int SelectedCustomerID = default;
+    string Distance = string.Empty;
+    string Make = string.Empty;
+    string RegistrationNumber = string.Empty;
+    string DistanceTraveled = string.Empty;
+    string CostPerLightYear = string.Empty;
+    string SelectedSpaceShuttleType = default;
+    IEnumerable<ISpaceShuttle> SpaceShuttles;
+    #endregion
+
+    protected override void OnInitialized()
+    {
+        SpaceShuttles = BP.GetSpaceShuttles();
+    }
+
+    void ReturnSpaceShuttle(int ID)
+    {
+        try
+        {
+
+        }
+
+        catch (Exception ex)
+        {
+
+            Error = ex.Message;
+        }
+    }
+
+    void RentSpaceShuttle(int ID)
+
+    {
+        try
+        {
+
+        }
+
+        catch (Exception ex)
+        {
+
+            Error = ex.Message;
+        }
+
+    }
+    void AddSpaceShuttle()
+    {
+        try
+        {
+
+        }
+
+        catch (Exception ex)
+        {
+            Error = ex.Message;
+        }
+
+
+    }
+}
+
+

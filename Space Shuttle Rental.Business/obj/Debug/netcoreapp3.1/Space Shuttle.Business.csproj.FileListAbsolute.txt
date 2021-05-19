@@ -1,0 +1,56 @@
+C:\Slask\Space Shuttle Rental Assignment - Zaruhi\Space Shuttle Rental Assignment\Space Shuttle Rental.Business\bin\Debug\netcoreapp3.1\Space Shuttle.Business.deps.json
+C:\Slask\Space Shuttle Rental Assignment - Zaruhi\Space Shuttle Rental Assignment\Space Shuttle Rental.Business\bin\Debug\netcoreapp3.1\Space Shuttle.Business.dll
+C:\Slask\Space Shuttle Rental Assignment - Zaruhi\Space Shuttle Rental Assignment\Space Shuttle Rental.Business\bin\Debug\netcoreapp3.1\Space Shuttle.Business.pdb
+C:\Slask\Space Shuttle Rental Assignment - Zaruhi\Space Shuttle Rental Assignment\Space Shuttle Rental.Business\bin\Debug\netcoreapp3.1\Space Shuttle.Common.dll
+C:\Slask\Space Shuttle Rental Assignment - Zaruhi\Space Shuttle Rental Assignment\Space Shuttle Rental.Business\bin\Debug\netcoreapp3.1\Space Shuttle.Data.dll
+C:\Slask\Space Shuttle Rental Assignment - Zaruhi\Space Shuttle Rental Assignment\Space Shuttle Rental.Business\bin\Debug\netcoreapp3.1\Space Shuttle.Common.pdb
+C:\Slask\Space Shuttle Rental Assignment - Zaruhi\Space Shuttle Rental Assignment\Space Shuttle Rental.Business\bin\Debug\netcoreapp3.1\Space Shuttle.Data.pdb
+C:\Slask\Space Shuttle Rental Assignment - Zaruhi\Space Shuttle Rental Assignment\Space Shuttle Rental.Business\obj\Debug\netcoreapp3.1\Space Shuttle.Business.csprojAssemblyReference.cache
+C:\Slask\Space Shuttle Rental Assignment - Zaruhi\Space Shuttle Rental Assignment\Space Shuttle Rental.Business\obj\Debug\netcoreapp3.1\Space Shuttle.Business.AssemblyInfoInputs.cache
+C:\Slask\Space Shuttle Rental Assignment - Zaruhi\Space Shuttle Rental Assignment\Space Shuttle Rental.Business\obj\Debug\netcoreapp3.1\Space Shuttle.Business.AssemblyInfo.cs
+C:\Slask\Space Shuttle Rental Assignment - Zaruhi\Space Shuttle Rental Assignment\Space Shuttle Rental.Business\obj\Debug\netcoreapp3.1\Space Shuttle.Business.csproj.CoreCompileInputs.cache
+C:\Slask\Space Shuttle Rental Assignment - Zaruhi\Space Shuttle Rental Assignment\Space Shuttle Rental.Business\obj\Debug\netcoreapp3.1\Space Shuttle.Business.csproj.CopyComplete
+C:\Slask\Space Shuttle Rental Assignment - Zaruhi\Space Shuttle Rental Assignment\Space Shuttle Rental.Business\obj\Debug\netcoreapp3.1\Space Shuttle.Business.dll
+C:\Slask\Space Shuttle Rental Assignment - Zaruhi\Space Shuttle Rental Assignment\Space Shuttle Rental.Business\obj\Debug\netcoreapp3.1\Space Shuttle.Business.pdb
+C:\Users\Zara1\Desktop\Space Shuttle Rental Assignment\Space Shuttle Rental.Business\bin\Debug\netcoreapp3.1\Space Shuttle.Business.deps.json
+C:\Users\Zara1\Desktop\Space Shuttle Rental Assignment\Space Shuttle Rental.Business\bin\Debug\netcoreapp3.1\Space Shuttle.Business.dll
+C:\Users\Zara1\Desktop\Space Shuttle Rental Assignment\Space Shuttle Rental.Business\bin\Debug\netcoreapp3.1\Space Shuttle.Business.pdb
+C:\Users\Zara1\Desktop\Space Shuttle Rental Assignment\Space Shuttle Rental.Business\bin\Debug\netcoreapp3.1\Space Shuttle.Common.dll
+C:\Users\Zara1\Desktop\Space Shuttle Rental Assignment\Space Shuttle Rental.Business\bin\Debug\netcoreapp3.1\Space Shuttle.Data.dll
+C:\Users\Zara1\Desktop\Space Shuttle Rental Assignment\Space Shuttle Rental.Business\bin\Debug\netcoreapp3.1\Space Shuttle.Common.pdb
+C:\Users\Zara1\Desktop\Space Shuttle Rental Assignment\Space Shuttle Rental.Business\bin\Debug\netcoreapp3.1\Space Shuttle.Data.pdb
+C:\Users\Zara1\Desktop\Space Shuttle Rental Assignment\Space Shuttle Rental.Business\obj\Debug\netcoreapp3.1\Space Shuttle.Business.csprojAssemblyReference.cache
+C:\Users\Zara1\Desktop\Space Shuttle Rental Assignment\Space Shuttle Rental.Business\obj\Debug\netcoreapp3.1\Space Shuttle.Business.AssemblyInfoInputs.cache
+C:\Users\Zara1\Desktop\Space Shuttle Rental Assignment\Space Shuttle Rental.Business\obj\Debug\netcoreapp3.1\Space Shuttle.Business.AssemblyInfo.cs
+C:\Users\Zara1\Desktop\Space Shuttle Rental Assignment\Space Shuttle Rental.Business\obj\Debug\netcoreapp3.1\Space Shuttle.Business.csproj.CoreCompileInputs.cache
+C:\Users\Zara1\Desktop\Space Shuttle Rental Assignment\Space Shuttle Rental.Business\obj\Debug\netcoreapp3.1\Space Shuttle.Business.csproj.CopyComplete
+C:\Users\Zara1\Desktop\Space Shuttle Rental Assignment\Space Shuttle Rental.Business\obj\Debug\netcoreapp3.1\Space Shuttle.Business.dll
+C:\Users\Zara1\Desktop\Space Shuttle Rental Assignment\Space Shuttle Rental.Business\obj\Debug\netcoreapp3.1\Space Shuttle.Business.pdb
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.Business\bin\Debug\netcoreapp3.1\Space Shuttle.Business.deps.json
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.Business\bin\Debug\netcoreapp3.1\Space Shuttle.Business.dll
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.Business\bin\Debug\netcoreapp3.1\Space Shuttle.Business.pdb
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.Business\bin\Debug\netcoreapp3.1\Space Shuttle.Common.dll
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.Business\bin\Debug\netcoreapp3.1\Space Shuttle.Data.dll
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.Business\bin\Debug\netcoreapp3.1\Space Shuttle.Common.pdb
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.Business\bin\Debug\netcoreapp3.1\Space Shuttle.Data.pdb
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.Business\obj\Debug\netcoreapp3.1\Space Shuttle.Business.csprojAssemblyReference.cache
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.Business\obj\Debug\netcoreapp3.1\Space Shuttle.Business.AssemblyInfoInputs.cache
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.Business\obj\Debug\netcoreapp3.1\Space Shuttle.Business.AssemblyInfo.cs
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.Business\obj\Debug\netcoreapp3.1\Space Shuttle.Business.csproj.CoreCompileInputs.cache
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.Business\obj\Debug\netcoreapp3.1\Space Shuttle.Business.csproj.CopyComplete
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.Business\obj\Debug\netcoreapp3.1\Space Shuttle.Business.dll
+C:\Slask\Space Shuttle Rental Assignment\Space Shuttle Rental Assignment\Space Shuttle Rental.Business\obj\Debug\netcoreapp3.1\Space Shuttle.Business.pdb
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.Business\bin\Debug\netcoreapp3.1\Space Shuttle.Business.deps.json
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.Business\bin\Debug\netcoreapp3.1\Space Shuttle.Business.dll
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.Business\bin\Debug\netcoreapp3.1\Space Shuttle.Business.pdb
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.Business\bin\Debug\netcoreapp3.1\Space Shuttle.Common.dll
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.Business\bin\Debug\netcoreapp3.1\Space Shuttle.Data.dll
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.Business\bin\Debug\netcoreapp3.1\Space Shuttle.Common.pdb
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.Business\bin\Debug\netcoreapp3.1\Space Shuttle.Data.pdb
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.Business\obj\Debug\netcoreapp3.1\Space Shuttle.Business.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.Business\obj\Debug\netcoreapp3.1\Space Shuttle.Business.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.Business\obj\Debug\netcoreapp3.1\Space Shuttle.Business.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.Business\obj\Debug\netcoreapp3.1\Space Shuttle.Business.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.Business\obj\Debug\netcoreapp3.1\Space Shuttle.Business.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.Business\obj\Debug\netcoreapp3.1\Space Shuttle.Business.dll
+C:\Users\Admin\OneDrive\Desktop\Studier\C#\Space Shuttle Rental Assignment\Space Shuttle Rental.Business\obj\Debug\netcoreapp3.1\Space Shuttle.Business.pdb

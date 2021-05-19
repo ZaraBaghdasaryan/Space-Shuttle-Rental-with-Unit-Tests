@@ -1,0 +1,14 @@
+C:\Users\Zara1\Desktop\C#\Car Rental Assignment\Car Rental Assignment\Car Rental.Business\bin\Debug\netcoreapp3.1\Car Rental.Business.deps.json
+C:\Users\Zara1\Desktop\C#\Car Rental Assignment\Car Rental Assignment\Car Rental.Business\bin\Debug\netcoreapp3.1\Car Rental.Business.dll
+C:\Users\Zara1\Desktop\C#\Car Rental Assignment\Car Rental Assignment\Car Rental.Business\bin\Debug\netcoreapp3.1\Car Rental.Business.pdb
+C:\Users\Zara1\Desktop\C#\Car Rental Assignment\Car Rental Assignment\Car Rental.Business\bin\Debug\netcoreapp3.1\Car Rental.Common.dll
+C:\Users\Zara1\Desktop\C#\Car Rental Assignment\Car Rental Assignment\Car Rental.Business\bin\Debug\netcoreapp3.1\Car Rental.Data.dll
+C:\Users\Zara1\Desktop\C#\Car Rental Assignment\Car Rental Assignment\Car Rental.Business\bin\Debug\netcoreapp3.1\Car Rental.Common.pdb
+C:\Users\Zara1\Desktop\C#\Car Rental Assignment\Car Rental Assignment\Car Rental.Business\bin\Debug\netcoreapp3.1\Car Rental.Data.pdb
+C:\Users\Zara1\Desktop\C#\Car Rental Assignment\Car Rental Assignment\Car Rental.Business\obj\Debug\netcoreapp3.1\Car Rental.Business.csprojAssemblyReference.cache
+C:\Users\Zara1\Desktop\C#\Car Rental Assignment\Car Rental Assignment\Car Rental.Business\obj\Debug\netcoreapp3.1\Car Rental.Business.AssemblyInfoInputs.cache
+C:\Users\Zara1\Desktop\C#\Car Rental Assignment\Car Rental Assignment\Car Rental.Business\obj\Debug\netcoreapp3.1\Car Rental.Business.AssemblyInfo.cs
+C:\Users\Zara1\Desktop\C#\Car Rental Assignment\Car Rental Assignment\Car Rental.Business\obj\Debug\netcoreapp3.1\Car Rental.Business.csproj.CoreCompileInputs.cache
+C:\Users\Zara1\Desktop\C#\Car Rental Assignment\Car Rental Assignment\Car Rental.Business\obj\Debug\netcoreapp3.1\Car Rental.Business.csproj.CopyComplete
+C:\Users\Zara1\Desktop\C#\Car Rental Assignment\Car Rental Assignment\Car Rental.Business\obj\Debug\netcoreapp3.1\Car Rental.Business.dll
+C:\Users\Zara1\Desktop\C#\Car Rental Assignment\Car Rental Assignment\Car Rental.Business\obj\Debug\netcoreapp3.1\Car Rental.Business.pdb

@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Space Shuttle Rental.UI", "Space Shuttle Rental.UI\Space Shuttle Rental.UI.csproj", "{A068BEA3-231A-4A27-A288-4414440A92EC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Space Shuttle.Business", "Space Shuttle Rental.Business\Space Shuttle.Business.csproj", "{CED00E59-BF2B-49B5-AFEB-6575118851D4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Space Shuttle.Common", "Space Shuttle Rental.Common\Space Shuttle.Common.csproj", "{91E144BB-9B94-4876-B870-83343F3E829A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Space Shuttle.Data", "Space Shuttle Rental.Data\Space Shuttle.Data.csproj", "{D7075871-0834-4F58-9138-6B3CF4ADED33}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Space Shuttle.Tests", "Space Shuttle Rental.Tests\Space Shuttle.Tests.csproj", "{E06FA5D6-15D1-4A2B-8F48-24476E036F69}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D112224D-BABD-4987-9420-B9A5D9FBBE29}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A068BEA3-231A-4A27-A288-4414440A92EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A068BEA3-231A-4A27-A288-4414440A92EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A068BEA3-231A-4A27-A288-4414440A92EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A068BEA3-231A-4A27-A288-4414440A92EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CED00E59-BF2B-49B5-AFEB-6575118851D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CED00E59-BF2B-49B5-AFEB-6575118851D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CED00E59-BF2B-49B5-AFEB-6575118851D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CED00E59-BF2B-49B5-AFEB-6575118851D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91E144BB-9B94-4876-B870-83343F3E829A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91E144BB-9B94-4876-B870-83343F3E829A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91E144BB-9B94-4876-B870-83343F3E829A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91E144BB-9B94-4876-B870-83343F3E829A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7075871-0834-4F58-9138-6B3CF4ADED33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7075871-0834-4F58-9138-6B3CF4ADED33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7075871-0834-4F58-9138-6B3CF4ADED33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7075871-0834-4F58-9138-6B3CF4ADED33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E06FA5D6-15D1-4A2B-8F48-24476E036F69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E06FA5D6-15D1-4A2B-8F48-24476E036F69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E06FA5D6-15D1-4A2B-8F48-24476E036F69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E06FA5D6-15D1-4A2B-8F48-24476E036F69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4323D3AE-44E1-4E7D-91C7-66E8D3299F02}
+	EndGlobalSection
+EndGlobal
